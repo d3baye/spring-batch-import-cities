@@ -11,6 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
  * User : Emmanuel PIERRE
  * Date: 30/05/14
  * Time: 15:26
+ * test Commit doudou dieye
  */
 @ComponentScan
 @EnableAutoConfiguration
